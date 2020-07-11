@@ -1,0 +1,11 @@
+{
+  "data": {
+    "site": {
+      "siteMetadata": {
+        "title": "My Gatsby Starter",
+        "description": "A Gatsby Starter with Typescript and a ready pattern for Jest and Storybook.",
+        "author": "John Blossom"
+      }
+    }
+  }
+}
